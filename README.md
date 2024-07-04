@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm a FE from Timor-Leste<br><br>- 📚 I'm currently studying Computer Science at Telkom University,Indonesia</p>
+<p align="left">I'm a FrontEnd Developer from Timor-Leste<br><br>- 📚 I'm currently studying Computer Science at Telkom University,Indonesia</p>
 
 ###
 
