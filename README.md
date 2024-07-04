@@ -6,6 +6,10 @@
 
 ###
 
+<h1 align="center">Hi👋,I'm Balbino Baptista from Timor-Leste</h1>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/balbino-pedro-baptista-83a8a9257/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -17,10 +21,6 @@
     <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codewars logo" />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hi👋,I'm Balbino Baptista from Timor-Leste</h1>
 
 ###
 
