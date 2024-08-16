@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm a FrontEnd Developer<br><br>- 📚 I'm currently studying Computer Science at Telkom University,Indonesia</p>
+<p align="left">I'm a tech enthusiast with a focus on front-end development and Flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University,Indonesia</p>
 
 ###
 
