@@ -1,8 +1,9 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN2YXFxYmd0d3R6YWxzNXh4NHdweDZobGl1ZHlreWt4MTR4MGR6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN2YXFxYmd0d3R6YWxzNXh4NHdweDZobGl1ZHlreWt4MTR4MGR6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" style="border-radius: 15px;" />
 </div>
+
 
 ###
 
