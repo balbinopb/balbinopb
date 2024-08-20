@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm currently focus on learning full-stack flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University,Indonesia</p>
+<p align="left">I'm currently focusing on learning full-stack flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University,Indonesia</p>
 
 ###
 
