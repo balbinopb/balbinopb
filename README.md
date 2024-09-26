@@ -59,12 +59,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=balbinopb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<dciv align="ccenter">
+  <icmg src="hcttps://streak-stats.demolab.com?user=balbinopb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<divk align="centerj">
-  <iimg src="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=balbinopb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balbinopb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 
