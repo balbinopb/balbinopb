@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1KF9UMHRXtWz9agMoiUu1UWFpts0py2Js/view?usp=sharing" style="border-radius: 15px; overflow: hidden;" />
+  <img height="150" src="https://drive.google.com/uc?id=1KF9UMHRXtWz9agMoiUu1UWFpts0py2Js" style="border-radius: 15px; overflow: hidden;" />
 </div>
 
 
