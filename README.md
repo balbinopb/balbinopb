@@ -9,7 +9,7 @@
 
 ###
 
-<h1 align="center">Hi👋,I'm Balbino Baptista from Timor-Leste</h1>
+<h1 align="center">Hi👋,I'm Balbino from Timor-Leste</h1>
 
 ###
 
