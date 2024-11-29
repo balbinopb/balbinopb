@@ -73,8 +73,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpxYmZ1anNlb2VzMWM4ZHVpYWNrNDRhenpwNnZhajd5cXpqdmdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
-</div>
+
 
 ###
