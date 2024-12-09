@@ -23,7 +23,7 @@
   <a href="https://www.codewars.com/users/balbino21" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codewars logo" />
   </a>
-  <a href="https://codeforces.com/profile/dinubatista4" target="_blank">
+  <a href="https://codeforces.com/profile/balbinopb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
 </div>
