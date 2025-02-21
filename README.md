@@ -33,7 +33,7 @@
 
 <!-- <p align="left">I'm currently focusing on learning full-stack Flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University, Indonesia</p>  -->
 I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia, with a strong passion for <strong>full-stack Flutter development</strong>. I thrive on building intuitive, high-performance applications and constantly push my boundaries to learn and improve.  
-<br><br>
+<br>
 🚀 <strong>Exploring full-stack development</strong> with <strong>Flutter, Dart, and backend technologies</strong><br>
 🎯 Passionate about <strong>clean architecture, performance optimization, and scalable solutions</strong><br>
 🔍 Always eager to <strong>learn, innovate, and contribute to meaningful projects</strong>
