@@ -4,12 +4,9 @@
   <img src="https://drive.google.com/uc?id=1KF9UMHRXtWz9agMoiUu1UWFpts0py2Js" alt="Balbino's workspace" width="800"/>
 </div>
 
-
-
-
 ###
 
-<h1 align="center">Hi👋,I'm Balbino</h1>
+<h1 align="center">Hi👋, I'm Balbino</h1>
 
 ###
 
@@ -28,14 +25,13 @@
   </a>
 </div>
 
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm currently focusing on learning full-stack flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University,Indonesia</p>
+<p align="left">I'm currently focusing on learning full-stack Flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University, Indonesia</p>
 
 ###
 
@@ -62,30 +58,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+###
 
+<h3 align="left">📊 GitHub Contribution Graph</h3>
 
 ###
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/24A148/balbinopb" alt="balbinopb's GitHub Contribution Graph" width="600"/>
+</div>
+
+###
+
 <!--
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
-<dciv align="ccenter">
-  <icmg src="hcttps://streak-stats.demolab.com?user=balbinopb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=balbinopb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balbinopb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-
 ###
 
-###
-
-
-
-###
 -->
 
