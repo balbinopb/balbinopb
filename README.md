@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://drive.google.com/uc?id=1KF9UMHRXtWz9agMoiUu1UWFpts0py2Js" alt="Balbino's workspace" width="800"/>
+  <img src="https://github.com/balbinopb/balbinopb/blob/main/bino.webp" alt="Balbino's workspace" width="800"/>
 </div>
 
 ###
