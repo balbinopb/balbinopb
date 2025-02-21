@@ -60,15 +60,9 @@
 
 ###
 
-<h3 align="left">📊 GitHub Contribution Graph</h3>
 
-###
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/24A148/balbinopb" alt="balbinopb's GitHub Contribution Graph" width="800"/>
-</div>
 
-###
 
 <!--
 
