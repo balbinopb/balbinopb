@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi👋, I'm Balbino</h1>
+<h1 align="center">Hi👋, I'm Balbino P. Baptista</h1>
 
 ###
 
