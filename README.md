@@ -1,12 +1,12 @@
 <br clear="both">
-
+<!--
 <div align="center">
   <img src="https://github.com/balbinopb/balbinopb/blob/main/bino.webp" alt="Balbino's workspace" width="800"/>
 </div>
-
+-->
 ###
 
-<h1 align="center">Hi👋, I'm Balbino P. Baptista</h1>
+<h1 align="center">Hi,I'm Balbino P. Baptista</h1>
 
 ###
 
