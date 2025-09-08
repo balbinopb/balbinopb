@@ -89,5 +89,3 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
 -->
 
 
-
-please make this better
