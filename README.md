@@ -7,11 +7,10 @@
 ###
 
 <!-- <h1 align="center">Hi,I'm Balbino P. Baptista</h1> -->
-<h1 align="center">
-  <span style="color:#00eaff; text-shadow: 0 0 10px #00eaff;">
-    Hi, I'm Balbino P. Baptista
-  </span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=60&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Balbino+P.+Baptista;Welcome+to+my+GitHub+Profile!"/>
+</p>
+
 
 
 ###
