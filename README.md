@@ -41,7 +41,7 @@
 <p align="left">
 I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia, passionate about building innovative software solutions and creating meaningful digital experiences. My interests span across <strong>Flutter development, full-stack engineering, and Artificial Intelligence/Machine Learning</strong>, where I continuously seek opportunities to learn, grow, and make an impact.
 
-<br><br>
+<br>
 
 🚀 Building cross-platform applications with <strong>Flutter, Dart, and modern backend technologies</strong><br>
 🤖 Exploring <strong>Artificial Intelligence, Machine Learning, and Generative AI</strong><br>
