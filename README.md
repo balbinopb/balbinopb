@@ -8,23 +8,23 @@
 
 <!-- <h1 align="center">Hi,I'm Balbino P. Baptista</h1> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=47&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Balbino+P.+Baptista;Welcome+to+my+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=47&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Balbino+P.+Baptista;Flutter+Developer;AI%2FML+Enthusiast;Full-Stack+Developer;Competitive+Programmer"/>
 </p>
-
-
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/balbino-pedro-baptista-83a8a9257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/21dinno?igsh=em82enczdXp6eDJm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <!-- <a href="https://www.codewars.com/users/balbino21" target="_blank">
+  <!--
+  <a href="https://www.codewars.com/users/balbino21" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codewars logo" />
-  </a> -->
+  </a>
+  -->
   <a href="https://codeforces.com/profile/balbinopb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
   </a>
@@ -32,47 +32,52 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<!-- <p align="left">I'm currently focusing on learning full-stack Flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University, Indonesia</p>  -->
-I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia, with a strong passion for <strong>full-stack Flutter development</strong>. I thrive on building intuitive, high-performance applications and constantly push my boundaries to learn and improve.  
-<br>
-🚀 <strong>Exploring full-stack development</strong> with <strong>Flutter, Dart, and backend technologies</strong><br>
-🎯 Passionate about <strong>clean architecture, performance optimization, and scalable solutions</strong><br>
-🔍 Always eager to <strong>learn, innovate, and contribute to meaningful projects</strong>
+<!-- <p align="left">I'm currently focusing on learning full-stack Flutter<br><br>- 📚 I'm currently studying Computer Science at Telkom University, Indonesia</p> -->
+
+<p align="left">
+I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia, passionate about building innovative software solutions and creating meaningful digital experiences. My interests span across <strong>Flutter development, full-stack engineering, and Artificial Intelligence/Machine Learning</strong>, where I continuously seek opportunities to learn, grow, and make an impact.
+
+<br><br>
+
+🚀 Building cross-platform applications with <strong>Flutter, Dart, and modern backend technologies</strong><br>
+🤖 Exploring <strong>Artificial Intelligence, Machine Learning, and Generative AI</strong><br>
+🎯 Passionate about <strong>clean architecture, scalable systems, and performance optimization</strong><br>
+🏆 Enthusiastic about <strong>competitive programming and problem solving</strong><br>
+🔍 Always eager to <strong>learn new technologies, innovate, and contribute to meaningful projects</strong>
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
 
 ###
+
 <p align="left">
 <a href="https://github.com/balbinopb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=balbinopb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -82,18 +87,14 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
 
 ###
 
-
-
-
-
 <!--
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=balbinopb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=balbinopb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 <div align="center">
@@ -103,5 +104,3 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
 ###
 
 -->
-
-
