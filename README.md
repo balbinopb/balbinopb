@@ -52,10 +52,10 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
 
 ###
 
-<h3 align="left">💻 Programming Languages</h3>
+<!-- <h3 align="left">💻 Programming Languages</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=go,cpp,dart,kotlin" />
-</div>
+  <img src="https://skillicons.dev/icons?i=go,cpp," />
+</div> -->
 
 <!-- <h3 align="left">🎨 Frontend Technologies</h3>
 <div align="left">
@@ -64,7 +64,7 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
 
 <h3 align="left">📱 Mobile Development</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
 </div>
 
 <h3 align="left">🤖 AI & Data Science</h3>
