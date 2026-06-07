@@ -52,32 +52,24 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
-
-###
-
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div> -->
-
+<h3 align="left">💻 Programming Languages</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,go,cpp,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=go,cpp,dart,kotlin,js" />
+</div>
+
+<h3 align="left">🎨 Frontend Technologies</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</div>
+
+<h3 align="left">📱 Mobile Development</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</div>
+
+<h3 align="left">🛠 Development Tools</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </div>
 
 ###
