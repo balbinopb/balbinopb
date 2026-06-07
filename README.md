@@ -56,7 +56,7 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
@@ -74,6 +74,10 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+</div> -->
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,go,cpp,html,css,git,github" />
 </div>
 
 ###
