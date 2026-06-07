@@ -67,6 +67,12 @@ I'm a <strong>Computer Science student</strong> at Telkom University, Indonesia,
   <img src="https://skillicons.dev/icons?i=flutter" />
 </div>
 
+<h3 align="left">🤖 AI & Data Science</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="jupyter notebook logo" />
+</div>
+
 <h3 align="left">🛠 Development Tools</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
