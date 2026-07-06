@@ -15,7 +15,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/balbino-pedro-baptista-83a8a9257/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" height="48" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin"
+       width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/21dinno?igsh=em82enczdXp6eDJm" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram" />
