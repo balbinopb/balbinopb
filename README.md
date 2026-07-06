@@ -8,7 +8,12 @@
 
 <!-- <h1 align="center">Hi,I'm Balbino P. Baptista</h1> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount Single&weight=700&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&height=70&lines=HI%2C+I'M+BALBINO+P.+BAPTISTA;COMPUTER+SCIENCE+STUDENT;FLUTTER+%7C+AI%2FML+DEVELOPER;BUILDING+SCALABLE+SOFTWARE;ALWAYS+LEARNING+SOMETHING+NEW" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=700&size=42&duration=3500&pause=1000&color=00BFFF&background=FFFFFF00&center=true&vCenter=true&width=1100&height=80&lines=HI%2C+I'M+BALBINO+PEDRO+BAPTISTA;COMPUTER+SCIENCE+STUDENT;FLUTTER+DEVELOPER;AI+%26+MACHINE+LEARNING+ENTHUSIAST;FULL-STACK+SOFTWARE+ENGINEER;BUILDING+SCALABLE+APPLICATIONS;ALWAYS+LEARNING+%26+INNOVATING"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <div align="center">
