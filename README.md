@@ -8,7 +8,7 @@
 
 <!-- <h1 align="center">Hi,I'm Balbino P. Baptista</h1> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Balbino+P.+Baptista;Computer+Science+Student;Flutter+%7C+AI%2FML+Developer;Building+Scalable+Software;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=950&height=70&lines=HI%2C+I'M+BALBINO+P.+BAPTISTA;COMPUTER+SCIENCE+STUDENT;FLUTTER+%7C+AI%2FML+DEVELOPER;BUILDING+SCALABLE+SOFTWARE;ALWAYS+LEARNING+SOMETHING+NEW" />
 </p>
 
 <div align="center">
