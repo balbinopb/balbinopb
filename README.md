@@ -15,18 +15,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/balbino-pedro-baptista-83a8a9257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/21dinno?igsh=em82enczdXp6eDJm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram" />
   </a>
-  <!--
-  <a href="https://www.codewars.com/users/balbino21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codewars logo" />
-  </a>
-  -->
   <a href="https://codeforces.com/profile/balbinopb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" alt="Codeforces" />
   </a>
 </div>
 
