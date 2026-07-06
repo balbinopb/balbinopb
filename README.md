@@ -8,25 +8,24 @@
 
 <!-- <h1 align="center">Hi,I'm Balbino P. Baptista</h1> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=47&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Balbino+P.+Baptista;Flutter+Developer;AI%2FML+Enthusiast;Full-Stack+Developer;Competitive+Programmer"/>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&weight=700&size=42&duration=3500&pause=1000&color=4036F7&background=FFFFFF00&center=true&vCenter=true&width=1100&height=80&lines=HI%2C+I'M+BALBINO+PEDRO+BAPTISTA;COMPUTER+SCIENCE+STUDENT;MOBILE++%7C+AI+%26+ML+DEVELOPER;BUILDING+SCALABLE+APPLICATIONS;ALWAYS+LEARNING+%26+INNOVATING"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/balbino-pedro-baptista-83a8a9257/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://skillicons.dev/icons?i=linkedin"
+       width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/21dinno?igsh=em82enczdXp6eDJm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram" />
   </a>
-  <!--
-  <a href="https://www.codewars.com/users/balbino21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codewars logo" />
-  </a>
-  -->
   <a href="https://codeforces.com/profile/balbinopb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1F8ACB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codeforces logo" />
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" alt="Codeforces" />
   </a>
 </div>
 
